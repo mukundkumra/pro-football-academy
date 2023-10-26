@@ -33,7 +33,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pro-football-academy-website.git
+git clone https://github.com/mukundkumra/pro-football-academy.git
 ```
 
 2. Open the project folder and navigate to the `index.html` file.
